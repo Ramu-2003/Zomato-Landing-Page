@@ -29,3 +29,7 @@
 # >> if we have done changes in github and we want to pull to vs then we should use :
 
 # git pull origin master { then it get pulled from github to vs code}
+
+# git checkout -b  branch name
+
+#       ex : git checkout -b setup {now setup will become the another branch}
