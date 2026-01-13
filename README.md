@@ -30,6 +30,10 @@
 
 # git pull origin master { then it get pulled from github to vs code}
 
-# git checkout -b  branch name
+# git checkout -b branch name
 
-#       ex : git checkout -b setup {now setup will become the another branch}
+# ex : git checkout -b setup {now setup will become the another branch}
+
+# git checkout master
+
+# this command to change the branch from like current branch name is "setup" i want to move to "master" then we will use to shift to that branch
