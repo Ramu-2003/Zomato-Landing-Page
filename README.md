@@ -23,3 +23,9 @@
 # >> git branch -m master [or] main
 
 # >> git push -u origin master [or] main
+
+# >> if git master has failed then git --set-upstream origin master
+
+# >> if we have done changes in github and we want to pull to vs then we should use :
+
+# git pull origin master { then it get pulled from github to vs code}
